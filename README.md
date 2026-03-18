@@ -56,10 +56,7 @@ The dashboard gives a real-time view of the system:
 - SCADA training and learning  
 - Electrical engineering simulations  
 
----
 
-## 📸 Screenshots
-*(Add your Simulink model and dashboard images here)*
 
 ---
 
